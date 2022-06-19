@@ -1,5 +1,11 @@
+let word = 'madam'
 function isPalindrome(word) {
   // Write your algorithm here
+  if (word === reverse()){
+    console.log("isPalindrome");
+  } else{
+    console.log("notAPalindrome")
+  }
 }
 
 /* 
